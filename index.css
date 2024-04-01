@@ -147,3 +147,14 @@ div.desc {
 .logo {
     pointer-events: none;
 }
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: none;
+  color: black;
+  text-align: left;
+  font-size: 18px;
+  font-family: Manrope;
+}
